@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1025px){
+    .logo h2{
+        font-size: 2.4rem;
+    }
+    .nav a{
+        font-size: 0.8rem;
+    }
+    .nav__button button{
+        padding: 0.6rem 1.9rem;
+        border-radius: 30px;
+        border: none;
+        background-color: #17A2B8;
+    }
+    .header__item h1{
+        font-size: 3.6rem;
+        width: 80%;
+    }
+    .home__content{
+        width: 70%;
+    }
+}
